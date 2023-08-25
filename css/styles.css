@@ -26,7 +26,6 @@ header p, header h1 {
 }
 .top-board section {
     background-color: white;
-    box-shadow: 0 0 3px;
     width: 25%;
     border-radius: 10px;
     height: auto;
@@ -94,7 +93,6 @@ section div:nth-child(3) {
 }
 .lower-board section {
     background-color: white;
-    box-shadow: 0 0 3px;
     width: 25%;
     height: auto;
     display: flex;
